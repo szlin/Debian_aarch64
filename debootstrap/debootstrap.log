@@ -1,9 +1,0 @@
-gpgv: Signature made Sat Sep 17 19:40:00 2016 CST
-gpgv:                using RSA key 8B48AD6246925553
-gpgv: Good signature from "Debian Archive Automatic Signing Key (7.0/wheezy) <ftpmaster@debian.org>"
-gpgv: Signature made Sat Sep 17 19:40:00 2016 CST
-gpgv:                using RSA key 7638D0442B90D010
-gpgv: Good signature from "Debian Archive Automatic Signing Key (8/jessie) <ftpmaster@debian.org>"
-gpgv: Signature made Sat Sep 17 19:47:09 2016 CST
-gpgv:                using RSA key CBF8D6FD518E17E1
-gpgv: Good signature from "Jessie Stable Release Key <debian-release@lists.debian.org>"
